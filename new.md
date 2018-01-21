@@ -2,9 +2,9 @@
 
 Here is some regular text.
 
-*bullet 1
+*bullet 1/n
 *bullet 2
 
 [Link to Google](https://google.com)
 
-More text.
+
